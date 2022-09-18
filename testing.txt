@@ -1,0 +1,2 @@
+this is configuration file
+hi hari
